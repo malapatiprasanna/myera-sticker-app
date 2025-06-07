@@ -1,0 +1,35 @@
+.app {
+  display: flex;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
+}
+
+.sticker-button {
+  background: none;
+  border: none;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.download-button {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.canvas {
+  border: 1px solid #ccc;
+}
+
+.button {
+ background-color: blue;
+}
